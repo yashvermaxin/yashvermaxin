@@ -17,5 +17,5 @@ Git workflows, API interaction, and Markdown documentation
 ## Currently Working On
 - Semester 1 lab projects and building daily problem-solving habits
 ## Connect With Me
-- LinkedIn : https://www.linkedin.com/in/yash-verma-981659430/
+- LinkedIn : [Yash Verma](https://www.linkedin.com/in/yash-verma-981659430/)
 - Email : 2601010064@krmu.edu.in
