@@ -7,7 +7,7 @@
 | Category | Technologies |
 |------------|------------------------------------------------|
 | Languages | Python (Beginner), Bash / Shell Scripting |
-| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Figma |
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 ## Featured Projects
 - [CSE103 Lab — LAB 3](https://github.com/yashvermaxin/cse103-lab-LAB3)
